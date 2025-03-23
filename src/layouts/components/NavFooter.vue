@@ -14,7 +14,7 @@
         href="https://dongqn.com"
         target="_blank"
         rel="noopener noreferrer"
-        >Ping.pub</a
+        >dongqn.com</a
       >
     </div>
     <div
@@ -22,7 +22,7 @@
     >
       <a
         class="link link-primary no-underline mr-4"
-        href="https://github.com/ping-pub/explorer/blob/master/LICENSE"
+        href="https://github.com/dongqn/explorer/blob/master/LICENSE"
         target="noopener noreferrer"
         >License</a
       >
