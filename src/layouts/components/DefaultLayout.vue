@@ -75,9 +75,8 @@ function selected(route: any, nav: NavLink) {
     >
       <div class="flex justify-between mt-1 pl-4 py-4 mb-1">
         <RouterLink to="/" class="flex items-center">
-          <h1 class="flex-1 ml-3 text-2xl font-semibold dark:text-white">
-            Dongqn
-          </h1>
+          <img src="/dongqn.jpg" alt="Logo" class="w-12 h-12"> 
+          <h1 class="ml-3 text-2xl font-semibold dark:text-white">Dongqn</h1>
         </RouterLink>
         <div
           class="pr-4 cursor-pointer xl:!hidden"
@@ -349,7 +348,7 @@ function selected(route: any, nav: NavLink) {
         <NavBarWallet />
       </div>
 
-      <!-- 👉 Pages -->
+      <!-- ðŸ‘‰ Pages -->
       <div style="min-height: calc(100vh - 180px)">
         <RouterView v-slot="{ Component }">
           <Transition mode="out-in">
